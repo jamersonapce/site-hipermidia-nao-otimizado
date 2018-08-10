@@ -1,0 +1,14 @@
+{
+  "name": "site-hipermidia",
+  "version": "1.0.0",
+  "description": "Site impermidia não otimizado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jamerson Silva",
+  "license": "ISC",
+  "engines": {
+    "node": "10.6.0"
+  }
+}
