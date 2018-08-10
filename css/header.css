@@ -1,0 +1,33 @@
+header {
+  background-color: #051b38;
+}
+
+header .container {
+  position: relative;
+}
+
+.menu-opcoes {
+  position: absolute;
+  right: 0;
+  top: .5em;
+  font-size: 1.2em;
+  font-weight: lighter; 
+}
+
+.menu-opcoes ul {
+  padding-left: 0;
+}
+
+.menu-opcoes li {
+  display: inline-block;
+  width: 5em;
+}
+
+.menu-opcoes a {
+  color: #FFF;
+  text-decoration: none;   
+}
+
+.menu-opcoes a:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,15 @@
+.plano {
+  background: #FFF;
+  width: 18em;
+  display: inline-block;
+  margin: 1em 0 0 1.4em;
+  padding-bottom: 2em;
+}
+
+.color-cod{
+  color: #f99157;
+}
+
+.plano:hover {
+  background: #dedede;
+}

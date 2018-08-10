@@ -1,0 +1,54 @@
+
+body {
+    font-family: "Roboto", sans-serif;
+}
+
+.menu {
+    background-color: #051b38;
+}
+
+#git,
+#github,
+#nodejs {
+    padding: 3em 0 6em 0;
+}
+
+section p {
+    text-align: justify;
+}
+
+.titulo-secao {
+    text-decoration: underline;
+    font-size: 2em;
+    text-align: center;
+    padding: 0 0 1.5em 0;
+}
+
+h2 {
+    font-size: 4rem;
+    text-transform: uppercase;
+    letter-spacing: 0.7rem;
+}
+
+.referencia a{
+    color: #83ffe6;
+}
+
+a{
+    color: #0056b3;
+}
+
+img{
+    padding-bottom: 2px;
+}
+
+.item-section {
+    right: 0;
+    margin: 0 0 1em 0;
+}
+
+.destaque {
+    width: 48%;
+    display: inline-block;
+    vertical-align: top;
+}
